@@ -1,6 +1,7 @@
 Card Assignment
 
-This repository contains my solution for the "Card_Assignment" provided by NareshIT and Sushanshu Sharma.
+Introduction
+Welcome to the Card Assignment repository! This repository contains my solution for the "Card_Assignment" provided by NareshIT and Sushanshu Sharma.
 
 Assignment Description
 The "Card_Assignment" required the implementation of a card-based solution, likely involving front-end development. The specific requirements and details of the assignment can be found in the instructions provided by NareshIT and Sushanshu Sharma.
@@ -24,8 +25,12 @@ Open the project in your preferred code editor or development environment.
 Explore the source code, documentation, and assets provided.
 
 Author
-Prem Prakash- prem.mca16@mjpru.ac.in Mob- 9412964984
+Prem Prakash
 
+Email: prem.mca16@mjpru.ac.in
+Mobile: 9412964984
 Acknowledgments
 Special thanks to NareshIT and Sushanshu Sharma for providing this assignment and the opportunity to demonstrate my skills.
+![image](https://github.com/premprakashIT/Card_Assignment/assets/123723114/af841dd2-fdd0-46fb-a135-8b33e13aaa28)
+
 
