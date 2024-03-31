@@ -31,3 +31,9 @@ Email: prem.mca16@mjpru.ac.in
 Mobile: 9412964984
 Acknowledgments
 Special thanks to NareshIT and Sushanshu Sharma for providing this assignment and the opportunity to demonstrate my skills.
+<<<<<<< HEAD
+=======
+![image](https://github.com/premprakashIT/Card_Assignment/assets/123723114/af841dd2-fdd0-46fb-a135-8b33e13aaa28)
+
+
+>>>>>>> 1cfb65d20ff61b445a8143426ce9a057a6d8e4c2
